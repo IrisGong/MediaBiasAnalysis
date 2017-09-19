@@ -2,7 +2,7 @@
 
 ### Introduction:
 ---
-People often argue that media are biased. The goal of this project is to visualize how media cover the news by comparing the related keywords of certain topics.  
+People often argue that media are biased. The goal of this project is to visualize how media cover the news by comparing the related keywords of certain topics. 
 
 ### Source:
 ---
@@ -16,6 +16,7 @@ RSS feed from CNN, Fox News, and NBC News from Nov. 2016 to Jul. 2017 are used a
 
 ### Result and Conclusion:
 ---
+##### Output:
 
 The similar words of "Obama" for CNN are the following:
 [('Barack', 0.8264516592025757), ('discontinues', 0.7488454580307007), ('Then-President', 0.7245848178863525), ('grinning', 0.7184348106384277), ('momentarily', 0.7071115970611572), ('wire-tapped', 0.7061207890510559), ('wiretapped', 0.7011043429374695), ('330', 0.6987705230712891), ('then-President', 0.697629451751709), ('half-sister', 0.6969624757766724)]
@@ -137,3 +138,6 @@ The similar words of "Paris" for NBCNews are the following:
 [('accord', 0.7735451459884644), ('neared', 0.742821455001831), ('pullout', 0.7345497608184814), ('pact', 0.7250813245773315), ('agreement', 0.7139858603477478), ('transformed', 0.7073962688446045), ('G-7', 0.706281840801239), ('influencing', 0.6999505758285522), ('declaring', 0.6819276809692383), ('climate', 0.6805001497268677)]
 
 
+##### Disclaimer: 
+This project does not intend to criticize any individual company/organization. <br>
+The author of this project does not take any responsibility for damages or losses caused by citing this project.
