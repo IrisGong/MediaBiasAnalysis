@@ -1,3 +1,22 @@
+# MediaBiasAnalysis
+
+### Introduction:
+---
+People often argue that media are biased. The goal of this project is to visualize how media cover the news by comparing the related keywords of certain topics.  
+
+### Source:
+---
+RSS feed from CNN, Fox News, and NBC News from Nov. 2016 to Jul. 2017 are used as training set.
+
+### Data Processing:
+---
+1. Read all the RSS news files, remove unnecessary tags, combine all the articles in one file for each media. 
+2. Use NLTK to tokenize news articles from each company and generate Word2vec models.
+3. Use the models to find the most similar words.  
+
+### Result and Conclusion:
+---
+
 The similar words of "Obama" for CNN are the following:
 [('Barack', 0.8264516592025757), ('discontinues', 0.7488454580307007), ('Then-President', 0.7245848178863525), ('grinning', 0.7184348106384277), ('momentarily', 0.7071115970611572), ('wire-tapped', 0.7061207890510559), ('wiretapped', 0.7011043429374695), ('330', 0.6987705230712891), ('then-President', 0.697629451751709), ('half-sister', 0.6969624757766724)]
 
