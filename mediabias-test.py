@@ -8,6 +8,6 @@ keywords = ['Obama', 'Trump', 'GOP', 'Democrats', 'wall', 'Mexico', 'abortion', 
 for keyword in keywords:
     for model in os.listdir('./tokenizedmodels'):
         newsModel = word2vec.Word2Vec.load('./tokenizedmodels/' + model)
-        print('The similar words of ' + '\"' + keyword + '\"' + ' for ' + model[:-10] + ' are the following:<br>')
+        print('The similar words of ' + '\"' + keyword + '\"' + ' for ' + model[:-10] + ' are the following:')
         print(newsModel.most_similar(positive = keyword))
-        print('<br><br>')
+        print("\n")
