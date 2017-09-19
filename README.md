@@ -6,7 +6,7 @@ People often argue that media are biased. The goal of this project is to visuali
 
 ### Source:
 ---
-RSS feed from CNN, Fox News, and NBC News from Nov. 2016 to Jul. 2017 are used as training set.
+RSS feed from CNN, Fox News, and NBC News from Nov. 2016 to Jul. 2017 are used as a training set.
 
 ### Data Processing:
 ---
