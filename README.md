@@ -2,7 +2,7 @@
 
 ### Introduction:
 ---
-People often argue that media are biased. The goal of this project is to visualize how media cover the news by comparing the related keywords of certain topics. 
+The goal of this project is to visualize how media cover the news by comparing the related keywords of certain topics. 
 
 ### Source:
 ---
