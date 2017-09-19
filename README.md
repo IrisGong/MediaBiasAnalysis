@@ -1,4 +1,4 @@
-# MediaBiasAnalysis
+# Media Bias Analysis
 
 ### Introduction:
 ---
@@ -141,3 +141,5 @@ The similar words of "Paris" for NBCNews are the following:
 ##### Disclaimer: 
 This project does not intend to criticize any individual company/organization. <br>
 The author of this project does not take any responsibility for damages or losses caused by citing this project.
+
+
