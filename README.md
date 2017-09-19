@@ -10,7 +10,7 @@ RSS feed from CNN, Fox News, and NBC News from Nov. 2016 to Jul. 2017 are used a
 
 ### Data Processing:
 ---
-1. Read all the RSS news files, remove unnecessary tags, combine all the articles in one file for each media. 
+1. Read all the RSS news files, remove unnecessary tags, and combine all the articles in one file for each media. 
 2. Use NLTK to tokenize news articles from each company and generate Word2vec models.
 3. Use the models to find the most similar words.  
 
